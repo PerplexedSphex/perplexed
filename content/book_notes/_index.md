@@ -3,7 +3,7 @@ title = "Book Notes"
 date = 2018-09-01T17:48:27-07:00
 weight = 5
 chapter = true
-pre = "<b>3 </b>"
+pre = "<b>2 </b>"
 +++
 
 # Book Notes

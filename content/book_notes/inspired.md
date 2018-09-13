@@ -1,3 +1,8 @@
+---
+title: "Inspired"
+date: 2018-09-02T18:08:27-07:00
+---
+
 > At one level, the responsibilities of the product manager are pretty straightforward. He or she is responsible for evaluating opportunities and determining what gets built and delivered to customers. We generally describe what needs to get built on the product backlog.
                 
 > The product is the result of what the product team builds, and the product manager is responsible for what the product team will build. So, this is why the product manager is the person we hold responsible and accountable for the success of the product. When a product succeeds, it's because everyone on the team did what they needed to do. But when a product fails, it's the product manager's fault.

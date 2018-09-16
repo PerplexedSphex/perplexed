@@ -3,65 +3,81 @@ title: "Inspired"
 date: 2018-09-02T18:08:27-07:00
 ---
 
+### Team
+
+#### The Role of the Product Manager
+
 > At one level, the responsibilities of the product manager are pretty straightforward. He or she is responsible for evaluating opportunities and determining what gets built and delivered to customers. We generally describe what needs to get built on the product backlog.
                 
-> The product is the result of what the product team builds, and the product manager is responsible for what the product team will build. So, this is why the product manager is the person we hold responsible and accountable for the success of the product. When a product succeeds, it's because everyone on the team did what they needed to do. But when a product fails, it's the product manager's fault.
+> The product is the result of what the product team builds, and the product manager is responsible for what the product team will build. So, this is why the product manager is the person we hold responsible and accountable for the success of the product. **When a product succeeds, it's because everyone on the team did what they needed to do. But when a product fails, it's the product manager's fault.**
                 
-> there are four key responsibilities of a strong product manager;
-                
-> First and foremost is deep knowledge of the actual users and customers.
-                
-> Today, product managers are expected to be comfortable with data and analytics.
-                
-> The third critical contribution—and the one that is often considered the most difficult by many product managers—is a deep understanding of your business and how it works, and the role your product plays in your business. This is tougher than it sounds.
-                
-> This means knowing who your various stakeholders are and especially learning the constraints they operate under. There are usually key stakeholders representing general management, sales, marketing, finance, legal, business development, and customer service. Your CEO is usually a very important stakeholder as well.
-                
-> Succeeding in the job of product means convincing each key stakeholder that you understand their constraints and that you are committed to only delivering solutions that you believe are consistent with those constraints.
-                
-> The fourth critical contribution is deep knowledge of the market and industry in which you're competing.
-                
-> To summarize, these are the four critical contributions you need to bring to your team: deep knowledge (1) of your customer, (2) of the data, (3) of your business and its stakeholders, and (4) of your market and industry.
+There are four key responsibilities of a strong product manager:
+
+ - First and foremost is deep knowledge of the actual users and customers.
+ - Second, product managers are expected to be comfortable with data and analytics.
+ - The third critical contribution—and the one that is often considered the most difficult by many product managers—is a deep understanding of your business and how it works, and the role your product plays in your business. This is tougher than it sounds.
+  - This means knowing who your various stakeholders are and especially learning the constraints they operate under. There are usually key stakeholders representing general management, sales, marketing, finance, legal, business development, and customer service. Your CEO is usually a very important stakeholder as well.
+  - Succeeding in the job of product means convincing each key stakeholder that you understand their constraints and that you are committed to only delivering solutions that you believe are consistent with those constraints.
+ - The fourth critical contribution is deep knowledge of the market and industry in which you're competing.
+
                 
 > The successful product manager must be the very best versions of smart, creative, and persistent.
                 
-> Perhaps the most important thing I can tell you to help you succeed is that you simply must take very seriously your preparation for this role. Start by becoming an expert in your users and customers. Share very openly what you learn, both the good and the bad. Become your team's and your company's go‐to person for understanding anything about your customer—quantitative and qualitative. Work to establish a strong relationship with your key stakeholders and business partners. Convince them of two things: (1) You understand the constraints they operate under. (2) You will only bring to them solutions that you believe will work within those constraints. Become an undisputed expert on your product and your industry. Again, share your knowledge openly and generously. Finally, work very hard to build and nurture the strong collaborative relationship with your product team. I'm not saying that doing all this is easy; it's not.
-                
-> In the old model, designers took requirements or specifications from product managers and used that to create their designs. In contrast, modern product designers continuously collaborate with product managers and engineers—from discovery to delivery.
+> Perhaps the most important thing I can tell you to help you succeed is that you simply must take very seriously your preparation for this role. Start by becoming an expert in your users and customers. Share very openly what you learn, both the good and the bad. Become your team's and your company's go‐to person for understanding anything about your customer—quantitative and qualitative. Work to establish a strong relationship with your key stakeholders and business partners. **Convince them of two things: (1) You understand the constraints they operate under. (2) You will only bring to them solutions that you believe will work within those constraints. Become an undisputed expert on your product and your industry. Again, share your knowledge openly and generously.** Finally, work very hard to build and nurture the strong collaborative relationship with your product team. I'm not saying that doing all this is easy; it's not.
+
+#### The Product Designer Role
+
+> In the old model, designers took requirements or specifications from product managers and used that to create their designs. In contrast, modern **product designers continuously collaborate with product managers and engineers—from discovery to delivery.**
                 
 > Rather than being measured on the output of their design work, the product designer is measured on the success of the product. Given this, product designers have many of the same concerns as product managers.
                 
-> User experience (UX) is much bigger than user interface (UI). Some people even use the term customer experience to further emphasize the point. UX is any way that customers and end users realize the value provided by your product. It includes all the touch points and interactions a customer has with your company and product over time. For modern products, this usually includes multiple different interfaces, as well as other customer touch points (e‐mail, marketing campaigns, sales process, customer support, and so forth).
+> User experience (UX) is much bigger than user interface (UI). Some people even use the term customer experience to further emphasize the point. **UX is any way that customers and end users realize the value provided by your product. It includes all the touch points and interactions a customer has with your company and product over time. For modern products, this usually includes multiple different interfaces, as well as other customer touch points (e‐mail, marketing campaigns, sales process, customer support, and so forth).**
                 
 > Depending on the product, the list of touch points could be very long, considering questions as: How will customers first learn about the product? How will we onboard a first‐time user and (perhaps gradually) reveal new functionality? How might users interact at different times during their day? What other things are competing for the user's attention? How might things be different for a one‐month‐old customer versus a one‐year‐old customer? How will we motivate a user to a higher level of commitment to the product? How will we create moments of gratification? How will a user share his experience with others? How will customers receive an offline service? What is the perceived responsiveness of the product?
                 
 > Good product designers use prototypes as their primary canvas for communicating ideas, both internally and externally.
                 
-> roles. Interaction design generally includes the underlying conceptual models (e.g., a photo management application may have photos, albums, projects), task flows, and control layouts to manipulate those concepts. Visual design includes composition, typography, and how the visual brand is expressed. Modern product designers may have different strengths but, generally, have some level of skill with both interaction and visual design.
+> Interaction design generally includes the underlying conceptual models (e.g., a photo management application may have photos, albums, projects), task flows, and control layouts to manipulate those concepts. Visual design includes composition, typography, and how the visual brand is expressed. Modern product designers may have different strengths but, generally, have some level of skill with both interaction and visual design.
                 
 > In strong teams today, the design informs the functionality at least as much as the functionality drives the design. This is a hugely important concept. For this to happen, we need to make design a first‐class member of the product team, sitting side by side with the product manager, and not a supporting service.
                 
-> Once you get a designer dedicated to your product team, here are five keys to a successful and healthy relationship with your designer: Do whatever you need to do to have your designer sit next to you. Include your designer from the very inception of every idea. Include your designer in as many customer and user interactions as possible. Learn about the users and customers together. Fight your temptation to provide your designer with your own design ideas. Give your designer as much room as possible to solve the design challenges him or herself. Encourage your designer to iterate early and often. The best way you can encourage this is to not get all nitpicky about design details with the very early iterations. More generally, encourage your designer to feel free not to just iterate on the particular design approach but to explore alternative solutions to the problem.
-                
-> There's probably no more important relationship for a successful product manager than the one with your engineers. If your relationship is strong, with mutual and sincere respect both ways, then the product manager job is great. If your relationship is not strong, your days as product manager will be brutal (and probably numbered).
+Once you get a designer dedicated to your product team, here are five keys to a successful and healthy relationship with your designer:
+
+ - Do whatever you need to do to have your designer sit next to you. 
+ - Include your designer from the very inception of every idea. Include your designer in as many customer and user interactions as possible. Learn about the users and customers together. 
+ - Fight your temptation to provide your designer with your own design ideas.  
+ - Give your designer as much room as possible to solve the design challenges him or herself. 
+ - Encourage your designer to iterate early and often. The best way you can encourage this is to not get all nitpicky about design details with the very early iterations. More generally, encourage your designer to feel free not to just iterate on the particular design approach but to explore alternative solutions to the problem.
+
+#### The Role of Engineering
+               
+> There's probably **no more important relationship for a successful product manager than the one with your engineers.** If your relationship is strong, with mutual and sincere respect both ways, then the product manager job is great. If your relationship is not strong, your days as product manager will be brutal (and probably numbered).
                 
 > This strong relationship begins with you. You need to do your homework and bring to the team the knowledge and skills of good product management.
                 
-> As a practical matter, you need to engage directly with your engineers every workday. There are typically two types of discussions going on each day. In the first type of discussion, you're soliciting their ideas and input for the items you're working on in discovery. In the second type of discussion, they're asking you clarifying questions on the items they're working on delivering to production.
+> As a practical matter, **you need to engage directly with your engineers every workday**. 
+
+There are typically two types of discussions going on each day. 
+ - In the first type of discussion, you're soliciting their ideas and input for the items you're working on in discovery. 
+ - In the second type of discussion, they're asking you clarifying questions on the items they're working on delivering to production.
                 
-> Where a lot of product managers go sideways is in how they communicate with their engineers. Just as most product managers don't like it when an executive or stakeholder spells out exactly what they want you to build, engineers generally don't like it when you try to spell out how to build something. So, while it's good if you have a strong technology understanding, it's not good if you use that knowledge to try to do their jobs for them.
+> Where a lot of product managers go sideways is in how they communicate with their engineers. Just as most product managers don't like it when an executive or stakeholder spells out exactly what they want you to build, engineers generally don't like it when you try to spell out how to build something. **So, while it's good if you have a strong technology understanding, it's not good if you use that knowledge to try to do their jobs for them.**
                 
-> One last thing to keep in mind: the morale of the engineers is very much a function of you as the product manager. It is your job to make sure they feel like missionaries and not mercenaries. You do this by involving them deeply in the customer pain you are trying to solve and in the business problems you face. Don't try to shelter them from this—instead, share these problems and challenges very openly with them. They will respect you more for it, and, in most cases, the developers will rise to the challenge.
+> One last thing to keep in mind: the morale of the engineers is very much a function of you as the product manager. It is your job to make sure they feel like missionaries and not mercenaries. **You do this by involving them deeply in the customer pain you are trying to solve and in the business problems you face.** Don't try to shelter them from this—instead, share these problems and challenges very openly with them. They will respect you more for it, and, in most cases, the developers will rise to the challenge.
                 
 > In general, from the product management perspective, any senior engineer is helpful because of the broad knowledge he or she brings that pertains to what is possible. However, a tech lead not only has this knowledge—and is responsible for helping to share this knowledge with the other engineers on the team—but the tech lead also has an explicit responsibility to help the product manager and product designer discover a strong solution.
+
+#### The Role of Product Marketing
                 
 > Product marketing is most typically organized by customer‐facing product, by target market, or sometimes by go‐to‐market channel, especially for more established companies (e.g., enterprise, vertical, mid‐market). There are typically fewer product marketers than product teams, as such, they get spread across different product teams.
                 
 > As you'll soon see, coming up with winning products is never easy. We need a product that our customers love, yet also works for our business. However, a very large component of what is meant by works for our business is that there is a real market there (large enough to sustain a business), we can successfully differentiate from the many competitors out there, we can cost‐effectively acquire and engage new customers, and we have the go‐to‐market channels and capabilities required to get our product into the hands of our customers.
                 
 > Modern product marketing managers represent the market to the product team—the positioning, the messaging, and a winning go‐to‐market plan. They are deeply engaged with the sales channel and know their capabilities, limitations, and current competitive issues.
-                
-> One of the key themes of this book is focusing on outcome and not output. Realize that typical product roadmaps are all about output. Yet, good teams are asked to deliver business results.
+
+## Roadmaps     
+
+> **One of the key themes of this book is focusing on outcome and not output. Realize that typical product roadmaps are all about output. Yet, good teams are asked to deliver business results.**
                 
 > I define product roadmap as a prioritized list of features and projects your team has been asked to work on.
                 
@@ -69,7 +85,7 @@ date: 2018-09-02T18:08:27-07:00
                 
 > Management has fair reasons for wanting product roadmaps: First, they want to be sure you're working on the highest‐value things first. Second, they are trying to run a business, which means they need to be able to plan. They want to know when key capabilities will launch so they can coordinate marketing programs, sales force hiring, dependencies with partners, and so on. These are reasonable desires. Yet, typical roadmaps are the root cause of most waste and failed efforts in product organizations.
                 
-> Even with the best of intentions, product roadmaps typically lead to very poor business results. I refer to the reasons for this as the two inconvenient truths about product. The first inconvenient truth is that at least half of our product ideas are just not going to work. There are many reasons for a product idea to not pan out.
+> Even with the best of intentions, **product roadmaps typically lead to very poor business results.** I refer to the reasons for this as the two inconvenient truths about product. The first inconvenient truth is that at least half of our product ideas are just not going to work. There are many reasons for a product idea to not pan out.
                 
 > If that's not bad enough, the second inconvenient truth is that, even with the ideas that do prove to be valuable, usable, feasible, and viable, it typically takes several iterations to get the execution of this idea to the point where it delivers the expected business value that management was hoping for. This is often referred to as time to money.
                 
@@ -77,41 +93,45 @@ date: 2018-09-02T18:08:27-07:00
                 
 > In contrast, strong product teams understand these truths and embrace them rather than deny them. They are very good at quickly tackling the risks (no matter where that idea originated) and are fast at iterating to an effective solution. This is what product discovery is all about, and it is why I view product discovery as the most important core competency of a product organization. If we can prototype and test ideas with users, customers, engineers, and business stakeholders in hours and days—rather than in weeks and months—it changes the dynamics, and most important, the results.
                 
-> It's worth pointing out that it isn't the list of ideas on the roadmap that's the problem. If it was just ideas, there's not much harm in that. The issue is that anytime you put a list of ideas on a document entitled “roadmap,” no matter how many disclaimers you put on it, people across the company will interpret the items as a commitment. And that's the crux of the problem, because now you're committed to building and delivering this thing, even when it doesn't solve the underlying problem. Don't misinterpret this. Sometimes, we do need to commit to a delivery on a date. We try to minimize those cases, but there are always some. But we need to make what is called a high‐integrity commitment.
+> It's worth pointing out that it isn't the list of ideas on the roadmap that's the problem. If it was just ideas, there's not much harm in that. **The issue is that anytime you put a list of ideas on a document entitled “roadmap,” no matter how many disclaimers you put on it, people across the company will interpret the items as a commitment.** And that's the crux of the problem, because now you're committed to building and delivering this thing, even when it doesn't solve the underlying problem. Don't misinterpret this. Sometimes, we do need to commit to a delivery on a date. We try to minimize those cases, but there are always some. But we need to make what is called a high‐integrity commitment.
                 
-> Before we jump into the alternative, however, we need to remind ourselves that roadmaps have existed for so long because they serve two purposes, and these needs don't go away: The first purpose is because the management of the company wants to make sure that teams are working on the highest‐business‐value items first. The second purpose is because—since they're trying to run a business—there are cases where they need to make date‐based commitments, and the roadmap is where they see and track those commitments (even though in most companies, they rarely trust the dates anymore).
+Before we jump into the alternative, however, we need to remind ourselves that roadmaps have existed for so long because they serve two purposes, and these needs don't go away: 
+
+ - The first purpose is because the management of the company wants to make sure that teams are working on the highest‐business‐value items first. 
+ - The second purpose is because—since they're trying to run a business—there are cases where they need to make date‐based commitments, and the roadmap is where they see and track those commitments (even though in most companies, they rarely trust the dates anymore).
                 
-> In the empowered product team model this book is predicated on, the teams are themselves equipped to figure out the best ways to solve the particular business problems assigned to them. But for this to happen, it's not enough to have strong people equipped with modern tools and techniques. The product teams need to have the necessary business context.
+> **In the empowered product team model this book is predicated on, the teams are themselves equipped to figure out the best ways to solve the particular business problems assigned to them.** But for this to happen, it's not enough to have strong people equipped with modern tools and techniques. The product teams need to have the necessary business context.
                 
-> For technology companies, there are two main components that provide this business context: The product vision and strategy. This describes the big picture of what the organization as a whole is trying to accomplish and what the plan is for achieving that vision. Each of our product teams may have its own areas of focus (for example, buyer teams and seller teams), but it's all supposed to come together to achieve the product vision. The business objectives. This describes the specific, prioritized business objectives for each product team.
+> For technology companies, there are **two main components that provide this business context: The product vision and strategy.** This describes the big picture of what the organization as a whole is trying to accomplish and what the plan is for achieving that vision. Each of our product teams may have its own areas of focus (for example, buyer teams and seller teams), but it's all supposed to come together to achieve the product vision. The business objectives. This describes the specific, prioritized business objectives for each product team.
                 
 > That's a good example of a business objective for one or more product teams: “Dramatically reduce the time it takes for a new customer to go live.” And one of the measurable key results would be “Average new customer onboarding time less than three hours.”
                 
-> The second driver is the occasional need for committing to a hard date. We address this with the concept of high‐integrity commitments, used for those situations where we need to commit to a date or a specific deliverable.
+> The second driver is **the occasional need for committing to a hard date. We address this with the concept of high‐integrity commitments, used for those situations where we need to commit to a date or a specific deliverable.**
                 
-> First, the teams are much more motivated when they are free to solve the problem the best way they see fit. It's the missionary versus mercenary thing again.
+- First, the teams are much more motivated when they are free to solve the problem the best way they see fit. It's the missionary versus mercenary thing again.
                 
-> Second, the team is not off the hook just by delivering a requested feature or project. The feature must solve the business problem (as measured by the key results);
-                
-> Third, no matter where the idea for the solution comes from, or how smart that person is, very often the initial approach doesn't work out.
+- Second, the team is not off the hook just by delivering a requested feature or project. The feature must solve the business problem (as measured by the key results);
+- Third, no matter where the idea for the solution comes from, or how smart that person is, very often the initial approach doesn't work out.
                 
 > It is all about outcome rather than output.
                 
-> There are a few product teams out there that have modified their product roadmaps so that each item is stated as a business problem to solve rather than the feature or project that may or may not solve it. These are called outcome‐based roadmaps.
+> There are a few product teams out there that have modified their **product roadmaps so that each item is stated as a business problem** to solve rather than the feature or project that may or may not solve it. These are called **outcome‐based roadmaps.**
                 
-> In most Agile teams, when you even mention the word “commitments” (like knowing what you're going to launch and when it will happen), you get reactions ranging from squirming to denial. It's a constant struggle between those executives and stakeholders who are trying to run the business (with hiring plans, marketing program spend, partnerships, and contracts depending on specific dates and deliverables) and the product team that is understandably reluctant to commit to dates and deliverables. They're reluctant when they don't yet understand what they need to deliver, and if it will work in terms of delivering the necessary business results, in addition to not knowing how much it will really cost because they don't yet know the solution.
+> In most Agile teams, when you even mention the word “commitments” (like knowing what you're going to launch and when it will happen), you get reactions ranging from squirming to denial. **It's a constant struggle between those executives and stakeholders who are trying to run the business (with hiring plans, marketing program spend, partnerships, and contracts depending on specific dates and deliverables) and the product team that is understandably reluctant to commit to dates and deliverables. They're reluctant when they don't yet understand what they need to deliver,** and if it will work in terms of delivering the necessary business results, in addition to not knowing how much it will really cost because they don't yet know the solution.
                 
-> The key is to understand that the root cause of all this grief about commitments is when these commitments are made. They are made too early. They are made before we know whether we can deliver on this obligation, and even more important, whether what we deliver will solve the problem for the customer.
+> The key is to understand that the **root cause of all this grief about commitments is when these commitments are made. They are made too early.** They are made before we know whether we can deliver on this obligation, and even more important, whether what we deliver will solve the problem for the customer.
                 
-> We ask the executives and our other stakeholders to give us a little time in product discovery to investigate the necessary solution. We need the time to validate that solution with customers to ensure it has the necessary value and usability, with engineers to ensure its feasibility, and with our stakeholders to ensure it is viable for our business. Once we have come up with a solution that works for our business, we now can make an informed and high‐integrity commitment about when we can deliver and what business results we can expect. Note that our delivery managers are key to determining any commitment dates. Just because your engineers believe something might take only two weeks to build and deliver, what if that team is already occupied on other work, and they can't start on this work for another month? The delivery managers track these commitments and dependencies.
+> We ask the executives and our other stakeholders to give us a little **time in product discovery to investigate the necessary solution.** We need the time to validate that solution with customers to ensure it has the necessary value and usability, with engineers to ensure its feasibility, and with our stakeholders to ensure it is viable for our business. **Once we have come up with a solution that works for our business, we now can make an informed and high‐integrity commitment about when we can deliver and what business results we can expect.** Note that our **delivery managers** are key to determining any commitment dates. Just because your engineers believe something might take only two weeks to build and deliver, what if that team is already occupied on other work, and they can't start on this work for another month? The delivery managers track these commitments and dependencies.
+
+### Vision, Strategy, Principles
                 
-> The product vision describes the future we are trying to create, typically somewhere between two and five years out.
+> **The product vision describes the future we are trying to create**, typically somewhere between two and five years out.
                 
 > Note also that the vision is not in any sense a spec. It's mainly a persuasive piece that might be in the form of a storyboard, a narrative such as a white paper, or a special type of prototype referred to as a visiontype.
                 
 > Its primary purpose is to communicate this vision and inspire the teams (and stakeholders, investors, partners—and, in many cases, prospective customers) to want to help make this vision a reality.
                 
-> The product strategy is our sequence of products or releases we plan to deliver on the path to realizing the product vision.
+> **The product strategy is our sequence of products or releases we plan to deliver on the path to realizing the product vision.**
                 
 > For most types of businesses, I encourage teams to construct product strategy around a series of product/market fits. There are many variations on this (the strategy for the product strategy, if you will). For business‐focused companies, you might have each product/market fit focus on a different vertical market (e.g., financial services, manufacturing, automotive).
                 
@@ -121,107 +141,100 @@ date: 2018-09-02T18:08:27-07:00
                 
 > The difference between vision and strategy is analogous to the difference between good leadership and good management. Leadership inspires and sets the direction, and management helps get us there. Most important, the product vision should be inspiring, and the product strategy should be focused.
                 
-> In terms of prioritizing markets, all I said above was to prioritize your markets and focus on them one at a time. I didn't say how to prioritize them. There is no one right way to do this, but there are three critical inputs to your decision:
+In terms of prioritizing markets, all I said above was to prioritize your markets and focus on them one at a time. I didn't say how to prioritize them. There is no one right way to do this, but there are three critical inputs to your decision:
                 
-> The first is market sizing, usually referred to as total addressable market (TAM).
+ - The first is market sizing, usually referred to as total addressable market (TAM).
+ - The second factor concerns distribution, usually referred to as go to market (GTM).
+ - The third factor is a (very rough) estimation of how long it will take, referred to as time to market (TTM).
                 
-> The second factor concerns distribution, usually referred to as go to market (GTM).
+These are the 10 key principles for coming up with an effective product vision.
+
+ - Start with why.
+ - Fall in love with the problem, not with the solution.
+ - Don't be afraid to think big with vision.
+ - Don't be afraid to disrupt yourselves because, if you don't, someone else will.
+ - The product vision needs to inspire.
+ - Determine and embrace relevant and meaningful trends.
+ - Skate to where the puck is heading, not to where it was.
+ - Be stubborn on vision but flexible on the details.
+ - Realize that any product vision is a leap of faith.
+ - Evangelize continuously and relentlessly.
                 
-> The third factor is a (very rough) estimation of how long it will take, referred to as time to market (TTM).
+As we discussed previously, there are any number of approaches to product strategy, but good strategies have these five principles in common:         
+
+ - Focus on one target market or persona at a time.
+ - Product strategy needs to be aligned with business strategy.
+ - Product strategy needs to be aligned with sales and go‐to‐market strategy.
+ - Obsess over customers, not over competitors.
+ - Communicate the strategy across the organization.
                 
-> These are the 10 key principles for coming up with an effective product vision.
-                
-> Start with why.
-                
-> Fall in love with the problem, not with the solution.
-                
-> Don't be afraid to think big with vision.
-                
-> Don't be afraid to disrupt yourselves because, if you don't, someone else will.
-                
-> The product vision needs to inspire.
-                
-> Determine and embrace relevant and meaningful trends.
-                
-> Skate to where the puck is heading, not to where it was.
-                
-> Be stubborn on vision but flexible on the details.
-                
-> Realize that any product vision is a leap of faith.
-                
-> Evangelize continuously and relentlessly.
-                
-> As we discussed previously, there are any number of approaches to product strategy, but good strategies have these five principles in common:
-                
-> Focus on one target market or persona at a time.
-                
-> Product strategy needs to be aligned with business strategy.
-                
-> Product strategy needs to be aligned with sales and go‐to‐market strategy.
-                
-> Obsess over customers, not over competitors.
-                
-> Communicate the strategy across the organization.
-                
-> Where the product vision describes the future you want to create, and the product strategy describes your path to achieving that vision, the product principles speak to the nature of the products you want to create.
-                
-> The MBO system was refined and improved at several companies over the years, most notably by the legendary Andy Grove at Intel. Today, the primary business objective management system we use is known as the OKR system—objectives and key results.
+> **Where the product vision describes the future you want to create, and the product strategy describes your path to achieving that vision, the product principles speak to the nature of the products you want to create.**
+
+### Objectives and Key Results
+            
+> The MBO system was refined and improved at several companies over the years, most notably by the legendary Andy Grove at Intel. Today, the primary business objective management system we use is known as the **OKR system—objectives and key results.**
                 
 > The concept is straightforward and based on two fundamental principles:
-                
-> The first can easily be summed up with the famous General George Patton quote I mentioned earlier: “Never tell people how to do things. Tell them what to do, and they will surprise you with their ingenuity.” The second was captured by HP's tagline of that era: “When performance is measured by results.” The idea here is that you can release all the features you want, but if it doesn't solve the underlying business problem, you haven't really solved anything.
+
+  1. The first can easily be summed up with the famous General George Patton quote I mentioned earlier: “Never tell people how to do things. Tell them what to do, and they will surprise you with their ingenuity.” 
+  2. The second was captured by HP's tagline of that era: “When performance is measured by results.” The idea here is that you can release all the features you want, but if it doesn't solve the underlying business problem, you haven't really solved anything.
                 
 > While there are several workable systems and tools for managing these business objectives, in this book, I'll focus on the OKR system technique.
                 
 > The Objectives and Key Results (OKR) technique is a tool for management, focus, and alignment.
                 
-> Objectives should be qualitative; key results need to be quantitative/measurable. Key results should be a measure of business results, not output or tasks. The rest of the company will use OKRs a bit differently, but for the product management, design, and technology organization, focus on the organization's objectives and the objectives for each product team, which are designed to roll up and achieve the organization's objectives. Don't let personal objectives or functional team objectives dilute or confuse the focus. Find a good cadence for your organization (typically, annually for an organization's objectives and quarterly for a team's objectives). Key results should be a measure of business results, not output or tasks. Keep the number of objectives and key results for the organization and for each team small (one to three objectives, with one to three key results each is typical). It's critical that every product team track their active progress against their objectives (which is typically weekly). The objectives do not need to cover every little thing the team does, but they should cover what the team needs to accomplish.
+> **Objectives should be qualitative; key results need to be quantitative/measurable. Key results should be a measure of business results, not output or tasks.** The rest of the company will use OKRs a bit differently, but for the product management, design, and technology organization, focus on the organization's objectives and the objectives for each product team, which are designed to roll up and achieve the organization's objectives. Don't let personal objectives or functional team objectives dilute or confuse the focus. Find a good cadence for your organization (typically, annually for an organization's objectives and quarterly for a team's objectives). Key results should be a measure of business results, not output or tasks. **Keep the number of objectives and key results for the organization and for each team small (one to three objectives, with one to three key results each is typical).** It's critical that every product team track their active progress against their objectives (which is typically weekly). The objectives do not need to cover every little thing the team does, but they should cover what the team needs to accomplish.
                 
-> It's important that, one way or another, teams feel accountable to achieving their objectives. If they fail substantially, it's worth having a post‐mortem/retrospective with some of their peers or management. Agree as an organization on how you will be evaluating or scoring your key results. There are different approaches to this, and it's in large part a reflection of your particular company culture. What's important here is consistency across the organization, so that teams know when they can depend on one another. It's common to define a score of 0 (on a scale from 0 to 1.0) if you essentially make no progress, 0.3 if you just did the bare minimum—what you know you can achieve, 0.7 if you've accomplished more than the minimum and have really done what you'd hoped you would achieve, and 1.0 if you've really surprised yourselves and others with a truly exceptional result, beyond what people were even hoping for. Establish very clear and consistent ways to indicate when a key result is in reality a high‐integrity commitment (described earlier) rather than a normal objective. In other words, for most key results, you may be shooting for that 0.7 score. But for a high‐integrity commitment, these are special, and it's more binary. You either delivered what you promised or you didn't. Be very transparent (across the product and technology organization) on what objectives each product team is working on and their current progress. Senior management (CEO and executive team) is responsible for the organization's objectives and key…
+> It's important that, one way or another, **teams feel accountable to achieving their objectives. If they fail substantially, it's worth having a post‐mortem/retrospective with some of their peers or management.** Agree as an organization on how you will be evaluating or scoring your key results. There are different approaches to this, and it's in large part a reflection of your particular company culture. What's important here is consistency across the organization, so that teams know when they can depend on one another. It's common to define a score of 0 (on a scale from 0 to 1.0) if you essentially make no progress, 0.3 if you just did the bare minimum—what you know you can achieve, 0.7 if you've accomplished more than the minimum and have really done what you'd hoped you would achieve, and 1.0 if you've really surprised yourselves and others with a truly exceptional result, beyond what people were even hoping for. **Establish very clear and consistent ways to indicate when a key result is in reality a high‐integrity commitment (described earlier) rather than a normal objective.** In other words, for most key results, you may be shooting for that 0.7 score. But for a high‐integrity commitment, these are special, and it's more binary. You either delivered what you promised or you didn't. Be very transparent (across the product and technology organization) on what objectives each product team is working on and their current progress. Senior management (CEO and executive team) is responsible for the organization's objectives and key…
 
-> If you deploy OKRs for your product organization, the key is to focus your OKRs at the product team level. This means don't let functional team or individual person OKRs confuse the issue. Focus the attention of the individuals on their product team objectives. If different functional organizations (such as design, engineering, or quality assurance) have larger objectives (such as responsive design, technical debt, and test automation), they should be discussed and prioritized at the leadership team level along with the other business objectives, and then incorporated into the relevant product team's objectives.
+> If you deploy OKRs for your product organization, **the key is to focus your OKRs at the product team level.** This means don't let functional team or individual person OKRs confuse the issue. Focus the attention of the individuals on their product team objectives. If different functional organizations (such as design, engineering, or quality assurance) have larger objectives (such as responsive design, technical debt, and test automation), they should be discussed and prioritized at the leadership team level along with the other business objectives, and then incorporated into the relevant product team's objectives.
                 
 > The key is that the cascading of OKRs in a product organization needs to be up from the cross‐functional product teams to the company or business‐unit level.
-                
+
+### Evangelism/Internal Selling
+
 > If you're a product manager—especially at a large company—and you're not good at evangelism, there's a very strong chance that your product efforts will get derailed before they see the light of day. And even if product does manage to ship, it will likely go the way of thousands of other large company efforts and wither on the vine.
                 
-> There are several techniques to help communicate the value of what you're proposing to your team, colleagues, stakeholders, executives, and investors. Here are my top‐10 pieces of advice for product managers to sell the dream:
+There are several techniques to help communicate the value of what you're proposing to your team, colleagues, stakeholders, executives, and investors. Here are my top‐10 pieces of advice for product managers to sell the dream:
+
+ 1. Use a prototype.
+ 2. Share the pain. Show the team the customer pain you are addressing. This is why I love to bring engineers along for customer visits and meetings.
+ 3. Share the vision. Make sure you have a very clear understanding of your product vision, product strategy, and product principles. Show how your work contributes to this vision and is true to the principles.
+ 4. Share learnings generously. After every user test or customer visit, share your learnings—not just the things that went well, but share the problems, too.
+ 5. Share credit generously. Make sure the team views it as their product, not just your product. However, when things don't go well, step forward and take responsibility for the miss and show the team you're learning from the mistakes as well. They'll respect you for it.
+ 6. Learn how to give a great demo. This is an especially important skill to use with customers and key execs. We're not trying to teach them how to operate the product, and we're not trying to do a user test on them. We're trying to show them the value of what we're building. A demo is not training, and it's not a test. It's a persuasive tool. Get really, really good at it.
+ 7. Do your homework. Your team and your stakeholders will all be much more likely to follow you if they believe you know what you're talking about.
+ 8. Be genuinely excited. If you're not excited about your product, you should probably fix that—either by changing what you work on or by changing your role.
+ 9. Learn to show some enthusiasm. Assuming you're genuinely excited, it's amazing to me how many product managers are so bad or so uncomfortable at showing enthusiasm. This matters—a lot.
+ 10. Spend time with your team. If you're not spending significant face time with your designer and every engineer on your team, then they can't see the enthusiasm in your eyes.
                 
-> Use a prototype.
-                
-> Share the pain. Show the team the customer pain you are addressing. This is why I love to bring engineers along for customer visits and meetings.
-                
-> Share the vision. Make sure you have a very clear understanding of your product vision, product strategy, and product principles. Show how your work contributes to this vision and is true to the principles.
-                
-> Share learnings generously. After every user test or customer visit, share your learnings—not just the things that went well, but share the problems, too.
-                
-> Share credit generously. Make sure the team views it as their product, not just your product. However, when things don't go well, step forward and take responsibility for the miss and show the team you're learning from the mistakes as well. They'll respect you for it.
-                
-> Learn how to give a great demo. This is an especially important skill to use with customers and key execs. We're not trying to teach them how to operate the product, and we're not trying to do a user test on them. We're trying to show them the value of what we're building. A demo is not training, and it's not a test. It's a persuasive tool. Get really, really good at it.
-                
-> Do your homework. Your team and your stakeholders will all be much more likely to follow you if they believe you know what you're talking about.
-                
-> Be genuinely excited. If you're not excited about your product, you should probably fix that—either by changing what you work on or by changing your role.
-                
-> Learn to show some enthusiasm. Assuming you're genuinely excited, it's amazing to me how many product managers are so bad or so uncomfortable at showing enthusiasm. This matters—a lot.
-                
-> Spend time with your team. If you're not spending significant face time with your designer and every engineer on your team, then they can't see the enthusiasm in your eyes.
-                
-> For most teams, there are two very significant challenges to tackle. First, discovering in detail what the customer solution needs to be. That includes everything from making sure there are enough customers that even need this solution (the demand) and then coming up with a solution that works for our customers and for our business. Even harder, we need to make sure we come up with a single solution that works for many customers, and not a series of specials. To do this, we need to be able to test out many ideas, and we need to do this quickly and inexpensively. Second, we need to ensure we deliver a robust and scalable implementation that our customers can depend on for consistently reliable value. Your team needs to be able to release with confidence. While you'll never have 100 percent confidence, you should not have to release and pray. So, we need to learn fast, yet also release with confidence.
+### Product Discovery
+
+> For most teams, there are **two very significant challenges to tackle.**
+
+ 1. First, **discovering in detail what the customer solution needs to be**. That includes everything from making sure there are enough customers that even need this solution (the demand) and then coming up with a solution that works for our customers and for our business. Even harder, we need to make sure we come up with a single solution that works for many customers, and not a series of specials. To do this, we need to be able to test out many ideas, and we need to do this quickly and inexpensively. 
+ 2. Second, we need to **ensure we deliver a robust and scalable implementation that our customers can depend on** for consistently reliable value. Your team needs to be able to release with confidence. While you'll never have 100 percent confidence, you should not have to release and pray. So, we need to learn fast, yet also release with confidence.
                 
 > Many teams get into a lot of grief with the concept of a minimum viable product (MVP) because on the one hand we are very motivated to get this out in front of customers fast to get feedback and learn. And, on the other hand, when we do get out there fast, people feel like this so‐called product is an embarrassment to the brand and the company. How could we possibly consider launching this?
                 
-> In general, I find that most product teams have a much better sense of how to accomplish the second goal of delivering solid software than how to accomplish the first goal of rapid experimentation and discovery.
+> In general, **I find that most product teams have a much better sense of how to accomplish the second goal of delivering solid software than how to accomplish the first goal of rapid experimentation and discovery.**
                 
 > Part of what causes confusion is a dilution of what is really meant when we call something a “product” or “product‐quality” or “productized” or “live in production.” I always try hard to reserve the term product to describe the state at which we can run a business on it. Specifically, it is scalable and performant to the degree necessary. It has a strong suite of automated regression tests. It is instrumented to collect the necessary analytics. It has been internationalized and localized where appropriate. It is maintainable. It is consistent with the brand promise. And, most important, it is something the team can release with confidence.
                 
-> Doing all this work when the product manager isn't even sure this is the solution the customer wants or needs is a recipe for product failure and big waste. So, the purpose of product discovery is to make sure we have some evidence that when we ask the engineers to build a production‐quality product, it won't be a wasted effort. And, this is why we have so many different techniques in product discovery.
+> Doing all this work when the product manager isn't even sure this is the solution the customer wants or needs is a recipe for product failure and big waste. So, **the purpose of product discovery is to make sure we have some evidence that when we ask the engineers to build a production‐quality product, it won't be a wasted effort.** And, this is why we have so many different techniques in product discovery.
                 
 > And, in fact, most of the techniques don't require the developer's time (which is important, because we appreciate how much time and effort needs to go into creating production‐quality software in delivery). Much of the key to effective product discovery is getting access to our customers without trying to push our quick experiments into production.
                 
-> But here's the key. If you want to discover great products, it really is essential that you get your ideas in front of real users and customers early and often. If you want to deliver great products, you want to use best practices for engineering and try not to override the engineers' concerns.
+> But here's the key. **If you want to discover great products, it really is essential that you get your ideas in front of real users and customers early and often. If you want to deliver great products, you want to use best practices for engineering and try not to override the engineers' concerns.**
                 
-> The purpose of product discovery is to address these critical risks: Will the customer buy this, or choose to use it? (Value risk) Can the user figure out how to use it? (Usability risk) Can we build it? (Feasibility risk) Does this solution work for our business? (Business viability risk) And it's not enough that it's just the product manager's opinion on these questions. We need to collect evidence.
+The purpose of product discovery is to address these critical risks: 
+
+- Will the customer buy this, or choose to use it? (Value risk) 
+- Can the user figure out how to use it? (Usability risk) 
+- Can we build it? (Feasibility risk) 
+- Does this solution work for our business? (Business viability risk) 
+
+**And it's not enough that it's just the product manager's opinion on these questions. We need to collect evidence.**
                 
 > When it comes to how we do product discovery, there are a set of core principles that drive how we work.
                 
@@ -239,15 +252,15 @@ date: 2018-09-02T18:08:27-07:00
                 
 > Our goal in discovery is to validate our ideas the fastest, cheapest way possible. Discovery is about the need for speed. This lets us try out many ideas, and for the promising ideas, try out multiple approaches.
                 
-> We need to validate the feasibility of our ideas during discovery, not after. If the first time your developers see an idea is at sprint planning, you have failed. We need to ensure the feasibility before we decide to build, not after.
+> We need to **validate the feasibility of our ideas during discovery, not after.** If the first time your developers see an idea is at sprint planning, you have failed. We need to ensure the feasibility before we decide to build, not after.
                 
 > We need to validate the business viability of our ideas during discovery, not after. Similarly, it is absolutely critical to ensure that the solution we build will meet the needs of our business—before we take the time and expense to build out that product.
                 
 > It's about shared learning. One of the keys to having a team of missionaries rather than a team of mercenaries is that the team has learned together.
                 
-> Most product teams normally think of an iteration as a delivery activity. If you release weekly, you think in terms of one‐week iterations. But we also have the concept of an iteration in discovery. We loosely define an iteration in discovery as trying out at least one new idea or approach. It's true that ideas come in all shapes and sizes, and some are much riskier than others, but the purpose of discovery is to do this much faster and cheaper than we can do in delivery. To set your expectations, teams competent in modern discovery techniques can generally test on the order of 10–20 iterations per week.
+> Most product teams normally think of an iteration as a delivery activity. If you release weekly, you think in terms of one‐week iterations. But we also have the concept of an iteration in discovery. **We loosely define an iteration in discovery as trying out at least one new idea or approach.** It's true that ideas come in all shapes and sizes, and some are much riskier than others, but the purpose of discovery is to do this much faster and cheaper than we can do in delivery. To set your expectations, teams competent in modern discovery techniques can generally test on the order of 10–20 iterations per week.
                 
-> As a rule of thumb, an iteration in discovery should be at least an order of magnitude less time and effort than an iteration in delivery.
+**> **As a rule of thumb, an iteration in discovery should be at least an order of magnitude less time and effort than an iteration in delivery.**
                 
 > Much of our product discovery work doesn't require a lot of framing or planning. We need to come up with a solution to a particular problem, and often this is straightforward, and we can proceed directly to delivery work. But for many efforts, this is decidedly not the case, and some framing and true problem solving becomes critically important. Big projects—and, especially, initiatives (projects spanning multiple teams)—are common examples. In this section, I consider how we frame our discovery work to ensure alignment and to identify key risks. There are really two goals here:
                 
